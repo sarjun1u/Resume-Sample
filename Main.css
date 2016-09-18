@@ -1,0 +1,62 @@
+body{
+	background-color: royalblue;
+	color: #fff;
+	font-family: 'Andada', serif;
+}
+.main{
+	margin:auto;
+	width: 1000px;
+	background-color: crimson;
+	padding-bottom: 50px;
+}
+.heading{
+
+}
+
+.text-center{
+	text-align: center;
+}
+
+a{
+	color: #fff;
+	text-decoration: none;
+}
+.Cont{
+	float: right;
+}
+.Address{
+
+	
+}
+
+.Extra{
+	margin:10px;
+
+}
+
+i{
+	margin-left: 5px;
+}
+
+.menu-item{
+	height: 50px;
+	background-color: grey;
+	margin: 1px;
+}
+
+.Main-Container{
+	margin:auto;
+	background-color: blue;
+	width: 800px;
+	padding-bottom: 10px;
+
+}
+.Sub-Container{
+
+}
+
+.info{
+	background-color: grey;
+	margin:auto;
+	width: 700px
+}
